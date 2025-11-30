@@ -1,4 +1,4 @@
-# Network Fundamentals - Section 2
+# Network Fundamentals 
  
 ## Components
 - Hubs  
@@ -36,4 +36,5 @@
 - Three-Tier  
 - Collapsed Core  
 - Spine & Leaf  
+
 - Traffic Blocks
