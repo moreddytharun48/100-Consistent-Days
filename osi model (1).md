@@ -136,11 +136,12 @@
  ### L3 IP header
  -add  source and destination ip adresses
  ### L2 ETHERNET header
- -add source and destination mac adresses
+ -add source and destination mac address
  ### L1 Header
  -tranmits frames as series of 1's and 0's
  
   
+
 
 
 
