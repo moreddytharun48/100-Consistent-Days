@@ -11,7 +11,8 @@
 | Command                 | Description          |
 | ----------------------- | -------------------- |
 | `chmod 755 file`        | Change permissions   |
-| `chmod u+x file`        | Add execute right    |
+| `chmod u+x file`        | Add execute right  |
 | `chown user file`       | Change owner         |
 | `chown user:group file` | Change owner & group |
 | `umask`                 | Default permissions  |
+
